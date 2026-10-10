@@ -12,12 +12,12 @@ public class Stars10 {
         int j = 10;
 
         while (i <= 10) {
-            System.out.print("*");
+            System.out.println("*");
             i++;
         }
 
         while (j >= 1) {
-            System.out.print("*");
+            System.out.println("*");
             j--;
         }
     }
